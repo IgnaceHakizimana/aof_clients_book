@@ -1,5 +1,6 @@
 ## Installing Required packages
 ```
+ npm install -g express-generator
  npm install 
  npm install express-flash --save
  npm install express-session --save
